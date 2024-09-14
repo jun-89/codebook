@@ -10,7 +10,8 @@ import algolia from './algolia'
 
 export default withPwa(defineConfig({
   pwa,
-  outDir: '../dist',
+  base: '/codebook/',
+  outDir: '../../dist',
   title: name,
   description,
   appearance: 'dark',
