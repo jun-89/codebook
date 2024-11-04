@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: JUN
+title: 君的个人学习部署
 titleTemplate: wisdomz
 
 hero:
