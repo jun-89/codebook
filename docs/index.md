@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /frontEnd/vue
+      link: /frontEnd/vue/
 ---
 
 <script setup>
